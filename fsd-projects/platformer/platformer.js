@@ -50,7 +50,10 @@ createCollectable( "kennedi" , 600 , 230)
 
     
     // TODO 4 - Create Cannons
-
+//createCannon(location, location on x or y,delay);
+createCannon( "bottom", 700 ,500);
+createCannon( "right", 100 ,130);
+createCannon( "top", 1300 ,130);
 
     
     
