@@ -30,7 +30,7 @@ $(function () {
      toggleGrid();
 
 
-    // TODO 2 - Create Platforms
+   // TODO 2 - Create Platforms
     //createPlatforms(x, y, width, height);
     createPlatform(500, 700, 130, 30);
 createPlatform(700, 600, 130, 30);
@@ -51,9 +51,9 @@ createCollectable( "kennedi" , 600 , 230)
     
     // TODO 4 - Create Cannons
 //createCannon(location, location on x or y,delay);
-createCannon( "bottom", 700 ,500);
+createCannon( "bottom", 700 ,830);
 createCannon( "right", 100 ,130);
-createCannon( "top", 1300 ,130);
+createCannon( "top", 1000 ,1000);
 
     
     
